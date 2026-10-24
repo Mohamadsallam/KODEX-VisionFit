@@ -1,0 +1,5 @@
+role,action,data_scope,mfa_required
+customer,read_own,own_profile,false
+brand_operator,read_brand,brand_data,true
+support,read_limited,masked_data,true
+security_admin,manage_all,all_data,true
