@@ -1,0 +1,12 @@
+# ملفات البيئة والإعدادات الحساسة
+.env
+.env.local
+
+# مجلدات الاعتماديات
+node_modules/
+venv/
+__pycache__/
+
+# ملفات نظام التشغيل
+Thumbs.db
+.DS_Store
