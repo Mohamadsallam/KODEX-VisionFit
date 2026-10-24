@@ -1,0 +1,4 @@
+id,risk_description,severity,owner,due_week,status
+R01,Unauthenticated VTO requests,S0,backend_owner,Week 4,open
+R02,Raw image leakage in logs,S0,security_engineer,Week 4,open
+R03,Prompt injection vulnerability,S1,ai_owner,Week 6,open
